@@ -1,0 +1,40 @@
+.section-body{
+    background-color: grey;
+    height: 3080px;
+}
+
+.img-home{
+    height:150px; 
+    border-radius: 50%; 
+    border: 10px solid #111e49;
+    margin-top: 150px;
+    margin-bottom: auto;
+}
+
+.home-header{
+    margin-top: 10px;
+    margin-bottom:10px;
+    color: black;
+    font-weight: 400;
+}
+
+.home-link{
+    text-decoration: none;
+}
+
+.login{
+    color: black;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 65px;
+}
+
+
+.signup{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 65px;
+}

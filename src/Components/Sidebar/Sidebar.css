@@ -1,0 +1,39 @@
+.section{
+    float: left;
+    background-color: #111e49;
+    height: 3000px;
+    width:12%;
+    color: #158078;
+    border: 1px solid white;
+    border-left-color: black;
+}
+
+.nav-tag li{
+    margin-left: 20px;
+}
+
+.para-tag{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 20px 0 10px 0;
+    position: relative;    
+}
+.section .side-nav .Home-tag:hover{
+    background-color: black;
+    border-radius: 5px;
+}
+
+.section .side-nav .Home-tag{
+    margin-left: 2px;
+    margin-right: 2px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 20px 0 10px 0;
+    position: relative;
+}
+
+.section .side-nav .Home-tag a{
+    color: #158078;
+    text-decoration: none;
+}

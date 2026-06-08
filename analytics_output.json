@@ -1,0 +1,553 @@
+{
+  "totals": {
+    "totalQuestions": 400,
+    "totalAnswers": 637,
+    "answerRate": 1.593
+  },
+  "topTags": [
+    {
+      "tag": "sql",
+      "count": 63
+    },
+    {
+      "tag": "ml",
+      "count": 55
+    },
+    {
+      "tag": "spark",
+      "count": 54
+    },
+    {
+      "tag": "java",
+      "count": 53
+    },
+    {
+      "tag": "algorithms",
+      "count": 50
+    },
+    {
+      "tag": "python",
+      "count": 48
+    },
+    {
+      "tag": "react",
+      "count": 40
+    },
+    {
+      "tag": "javascript",
+      "count": 37
+    }
+  ],
+  "topContributors": [
+    {
+      "author": "student8@ssn.edu.in",
+      "answers": 58
+    },
+    {
+      "author": "student11@ssn.edu.in",
+      "answers": 56
+    },
+    {
+      "author": "student13@ssn.edu.in",
+      "answers": 49
+    },
+    {
+      "author": "student3@ssn.edu.in",
+      "answers": 48
+    },
+    {
+      "author": "student6@ssn.edu.in",
+      "answers": 45
+    },
+    {
+      "author": "student7@ssn.edu.in",
+      "answers": 44
+    },
+    {
+      "author": "student10@ssn.edu.in",
+      "answers": 42
+    },
+    {
+      "author": "student5@ssn.edu.in",
+      "answers": 41
+    },
+    {
+      "author": "student2@ssn.edu.in",
+      "answers": 40
+    },
+    {
+      "author": "student12@ssn.edu.in",
+      "answers": 40
+    }
+  ],
+  "dailyActivity": [
+    {
+      "day": "2024-01-01",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-02",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-03",
+      "questions": 1
+    },
+    {
+      "day": "2024-01-04",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-05",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-06",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-07",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-08",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-09",
+      "questions": 8
+    },
+    {
+      "day": "2024-01-10",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-11",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-12",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-13",
+      "questions": 1
+    },
+    {
+      "day": "2024-01-14",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-15",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-16",
+      "questions": 5
+    },
+    {
+      "day": "2024-01-17",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-18",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-19",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-20",
+      "questions": 7
+    },
+    {
+      "day": "2024-01-21",
+      "questions": 5
+    },
+    {
+      "day": "2024-01-22",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-24",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-25",
+      "questions": 4
+    },
+    {
+      "day": "2024-01-26",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-27",
+      "questions": 2
+    },
+    {
+      "day": "2024-01-28",
+      "questions": 6
+    },
+    {
+      "day": "2024-01-29",
+      "questions": 6
+    },
+    {
+      "day": "2024-01-30",
+      "questions": 3
+    },
+    {
+      "day": "2024-01-31",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-01",
+      "questions": 6
+    },
+    {
+      "day": "2024-02-02",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-03",
+      "questions": 9
+    },
+    {
+      "day": "2024-02-04",
+      "questions": 2
+    },
+    {
+      "day": "2024-02-05",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-06",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-07",
+      "questions": 5
+    },
+    {
+      "day": "2024-02-08",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-09",
+      "questions": 6
+    },
+    {
+      "day": "2024-02-10",
+      "questions": 5
+    },
+    {
+      "day": "2024-02-11",
+      "questions": 6
+    },
+    {
+      "day": "2024-02-12",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-13",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-14",
+      "questions": 1
+    },
+    {
+      "day": "2024-02-15",
+      "questions": 1
+    },
+    {
+      "day": "2024-02-16",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-17",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-18",
+      "questions": 2
+    },
+    {
+      "day": "2024-02-19",
+      "questions": 1
+    },
+    {
+      "day": "2024-02-20",
+      "questions": 1
+    },
+    {
+      "day": "2024-02-21",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-22",
+      "questions": 6
+    },
+    {
+      "day": "2024-02-23",
+      "questions": 1
+    },
+    {
+      "day": "2024-02-24",
+      "questions": 5
+    },
+    {
+      "day": "2024-02-25",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-26",
+      "questions": 4
+    },
+    {
+      "day": "2024-02-27",
+      "questions": 2
+    },
+    {
+      "day": "2024-02-28",
+      "questions": 3
+    },
+    {
+      "day": "2024-02-29",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-01",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-02",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-03",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-04",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-05",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-06",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-07",
+      "questions": 3
+    },
+    {
+      "day": "2024-03-08",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-09",
+      "questions": 3
+    },
+    {
+      "day": "2024-03-10",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-11",
+      "questions": 6
+    },
+    {
+      "day": "2024-03-12",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-13",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-15",
+      "questions": 5
+    },
+    {
+      "day": "2024-03-16",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-17",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-18",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-19",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-21",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-22",
+      "questions": 6
+    },
+    {
+      "day": "2024-03-23",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-24",
+      "questions": 6
+    },
+    {
+      "day": "2024-03-25",
+      "questions": 7
+    },
+    {
+      "day": "2024-03-26",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-27",
+      "questions": 1
+    },
+    {
+      "day": "2024-03-28",
+      "questions": 3
+    },
+    {
+      "day": "2024-03-29",
+      "questions": 2
+    },
+    {
+      "day": "2024-03-30",
+      "questions": 4
+    },
+    {
+      "day": "2024-03-31",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-01",
+      "questions": 1
+    },
+    {
+      "day": "2024-04-02",
+      "questions": 2
+    },
+    {
+      "day": "2024-04-03",
+      "questions": 4
+    },
+    {
+      "day": "2024-04-04",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-05",
+      "questions": 6
+    },
+    {
+      "day": "2024-04-06",
+      "questions": 4
+    },
+    {
+      "day": "2024-04-07",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-09",
+      "questions": 4
+    },
+    {
+      "day": "2024-04-10",
+      "questions": 2
+    },
+    {
+      "day": "2024-04-11",
+      "questions": 2
+    },
+    {
+      "day": "2024-04-12",
+      "questions": 1
+    },
+    {
+      "day": "2024-04-13",
+      "questions": 4
+    },
+    {
+      "day": "2024-04-14",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-15",
+      "questions": 1
+    },
+    {
+      "day": "2024-04-16",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-17",
+      "questions": 2
+    },
+    {
+      "day": "2024-04-18",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-19",
+      "questions": 1
+    },
+    {
+      "day": "2024-04-20",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-21",
+      "questions": 6
+    },
+    {
+      "day": "2024-04-22",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-23",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-24",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-25",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-26",
+      "questions": 5
+    },
+    {
+      "day": "2024-04-27",
+      "questions": 3
+    },
+    {
+      "day": "2024-04-28",
+      "questions": 4
+    },
+    {
+      "day": "2024-04-29",
+      "questions": 7
+    },
+    {
+      "day": "2024-04-30",
+      "questions": 3
+    }
+  ]
+}

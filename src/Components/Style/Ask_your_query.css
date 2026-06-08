@@ -1,0 +1,32 @@
+.ask_your_query-body{
+    height: 100%;
+}
+
+.ask_your_query-main{
+    margin-left: 228px;
+    background-color: grey;
+    height: 900px;
+    border-top:1px solid white
+}
+
+
+.ask_your_query-body .ask_your_query-form{
+    color: white;
+}
+
+.artical_content{
+    height: 30px;
+}
+
+#tags-name{
+    width: 274px;
+    height: 34px;
+    background-color: burlywood;
+    color:black;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#tags-name option{
+    margin-left:5px;
+}
